@@ -14,4 +14,5 @@ app.get('/',(req,res)=>{
 server.listen(8090, ()=>{
     console.log('서버 돌아가는중')
     
+
 })
